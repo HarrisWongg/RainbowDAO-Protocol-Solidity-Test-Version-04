@@ -13,3 +13,4 @@ contract DaoFactory {
         return daos.length();
     }
 }
+
